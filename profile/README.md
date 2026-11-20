@@ -4,27 +4,25 @@
 
 XNEST is a US software company building Shopify commerce systems, custom applications, integrations, and focused software products.
 
-Our primary practice is Shopify and commerce engineering, from storefronts and platform migrations to the APIs and systems behind them. We also build custom software when a standard platform does not cover the complete business need.
-
-XNEST is founder-led by **Dimo Peevski**, with direct technical responsibility from scope through delivery.
+Our primary practice is Shopify and commerce engineering, from storefronts and platform migrations to the APIs and systems behind them. When a standard platform does not cover the complete business need, we build the software around it.
 
 ## What we build
 
 ### Shopify and commerce engineering
 
-We build and improve Shopify stores and the systems around them.
+We build and improve Shopify stores and the systems behind them.
 
 **Storefront engineering**  
 Custom Shopify storefronts, theme development, product and purchase flows, filtering, integrations, and rebuilds.
 
 **Platform migrations**  
-Structured migrations from platforms such as WooCommerce and Magento to Shopify and Shopify Plus, including historical data, mapping, validation, redirects, and controlled cutover.
+Structured migrations from platforms such as WooCommerce to Shopify and Shopify Plus, including historical data, mapping, validation, redirects, and controlled cutover.
 
 **Inventory and system integrations**  
 APIs, multi-warehouse availability, business logic, and integrations connecting Shopify with operational systems.
 
 **Performance and stability**  
-Technical work on live stores, including application conflicts, cart issues, mobile problems, performance, and production stability.
+Technical work on live stores, including cart issues, application conflicts, mobile problems, performance, and production stability.
 
 ### Custom software and integrations
 
@@ -36,7 +34,7 @@ Our work includes:
 - APIs and backend systems
 - business-system integrations
 - specialized workflows
-- production hosting and deployment
+- cloud-hosted applications
 
 ## Selected work
 
@@ -47,7 +45,7 @@ Our work includes:
 | **FELPer** | Personal-finance web application built with Angular, .NET, and Azure |
 | **Thirsty Squirrel** | Shopify live-store stabilization, cart fixes, application-conflict resolution, and mobile improvements |
 
-These projects represent different parts of the same engineering approach: define the problem, control the scope, test away from the live system, and release deliberately.
+These projects represent different parts of the same engineering approach: define the problem, control the scope, test away from the live system where practical, and release deliberately.
 
 ## Products by XNEST
 
@@ -63,7 +61,7 @@ FamBrief is the first product in the XNEST owned-product portfolio and the refer
 
 ## Engineering
 
-Our production work currently includes technologies and platforms such as:
+Our production work includes technologies and platforms such as:
 
 **Commerce**  
 Shopify · Shopify Plus · Liquid · WooCommerce · Matrixify
@@ -93,26 +91,19 @@ Changes are developed and tested away from the live production system where prac
 **Documented handoff**  
 Documentation, access, and operational information are handed over with the delivered system.
 
-## Founder-led engineering
-
-XNEST is led by **Dimo Peevski**.
-
-The same person responsible for the technical decisions remains accountable through delivery and handoff. This keeps communication direct and technical ownership clear.
-
 ## About this GitHub organization
 
 This organization contains selected public XNEST repositories and organization-level GitHub resources.
 
-Client systems, commercial source code, internal company systems, and unreleased XNEST products remain private unless they are intentionally published.
+Client systems, commercial source code, internal company systems, research, and unreleased XNEST products remain private unless they are intentionally published.
 
 ## XNEST
 
 **Legal entity:** XNest LLC  
 **Brand:** XNEST  
-**Location:** Miami, Florida, United States  
-**Founder:** Dimo Peevski  
+**Location:** United States  
 **Primary practice:** Shopify and commerce engineering  
 **Additional work:** Custom software and integrations  
 **Owned software:** Products by XNEST
 
-Engineering software that ships.
+**Engineering software that ships.**
